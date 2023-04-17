@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "Node",
+        "target": "ESNext",
+        "types": ["@types/node"],
+        "noEmit": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
